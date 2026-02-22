@@ -1,9 +1,3 @@
-Perfect 👏 I’ll write you a **clean, human-written README** — not robotic, not AI-sounding — something that looks like you genuinely built and documented the project yourself.
-
-You can copy this directly into a `README.md` file and push it to GitHub.
-
----
-
 # 📊 Sales Performance Dashboard | SQL + Power BI
 
 ## 📌 Project Overview
